@@ -131,6 +131,9 @@ Posts about this topic: [The Death Bed Game](https://medium.com/better-humans/20
 ### Articles 
 Writing I've loved and come back to a bunch of times.
 
+(NB: This definition has been preserved from the version of [Buster Benson's Codex vitae](https://github.com/busterbenson/public/blob/master/Codex.md) from which I forked this version.)
+TODO: Update this section, or replace it with a new section, depending on how much of it I wish to incorporate it into my own Codex Vitae
+
 * [Rational Emotive Behavior Therapy](http://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy)
 * [The Cook and the Chef: Musk's Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) - Tim Urban
 * [On conversational UIs](http://interconnected.org/home/2015/06/16/conversational_uis) - Matt Webb
@@ -153,8 +156,9 @@ Writing I've loved and come back to a bunch of times.
 
 ### Books 
 Each of these books has changed how I see the world.
+
 (NB: This definition has been preserved from the version of [Buster Benson's Codex vitae](https://github.com/busterbenson/public/blob/master/Codex.md) from which I forked this version.)
-- TODO: Update this section, or replace it with a new section, depending on how much of it I wish to incorporate it into my own Codex Vitae
+TODO: Update this section, or replace it with a new section, depending on how much of it I wish to incorporate it into my own Codex Vitae
 
 * [You're It](http://www.amazon.com/Youre-It-Hiding-Seeking-Being/dp/1591797349) - Alan Watts
 * [On Intelligence](http://www.amazon.com/On-Intelligence-Jeff-Hawkins/dp/0805078533) - Jeff Hawkins
