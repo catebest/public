@@ -1,13 +1,12 @@
-# What Buster is doing now
+# What Cate is doing now
 
-*Last updated: October 25th, 2015.*
+*Last updated: 28 DEC 2016.*
 
-This page is accessible from [busterbenson.com/now](http://busterbenson.com/now), and was inspired by [this post by Derek Sivers](https://sivers.org/nowff).
+This page is accessible from [my public GitHub repo](https://github.com/catebest/public/blob/master/Now.md), and was inspired second-hand by [this post by Derek Sivers](https://sivers.org/nowff).
 
 Here's what I'm doing now:
 
-* Living in Berkeley, CA, with Kellianne and Niko.
-* Working at [Slack](http://slack.com) as a product manager, building the platform.
-* On the board of directors at [NaNoWriMo](http://nanowrimo.org).
-* An advisor to [Coach.me](http://coach.me), a platform for self-improvement.
-* Helping Kellianne keep [750 Words](http://750words.com) alive.
+* Living in Arlington, VA.
+* Working on a very active job search; being thankful for Unemployment Compensation.
+* Continuing to write in some form each day after having recently established the habit.
+* Seeking and maintaining enduring interpersonal connections.
